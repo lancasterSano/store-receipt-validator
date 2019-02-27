@@ -1,5 +1,5 @@
 {
-  "name": "lancasterSano/store-receipt-validator",
+  "name": "lancaster-sano/store-receipt-validator",
   "description": "PHP receipt validator for Apple iTunes, Google Play and Amazon App Store",
   "type": "library",
   "authors": [
