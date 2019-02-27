@@ -1,5 +1,5 @@
 {
-  "name": "aporat/store-receipt-validator",
+  "name": "lancasterSano/store-receipt-validator",
   "description": "PHP receipt validator for Apple iTunes, Google Play and Amazon App Store",
   "type": "library",
   "authors": [
@@ -21,7 +21,7 @@
     "purchase",
     "receipt"
   ],
-  "homepage": "https://github.com/aporat/store-receipt-validator",
+  "homepage": "https://github.com/lancasterSano/store-receipt-validator",
   "license": [
     "Apache-2.0"
   ],
@@ -42,6 +42,6 @@
     }
   },
   "support": {
-    "issues": "https://github.com/aporat/store-receipt-validator/issues"
+    "issues": "https://github.com/lancasterSano/store-receipt-validator/issues"
   }
 }
